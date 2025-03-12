@@ -1,8 +1,8 @@
 version = 1
 revision = 1
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 
 [[package]]
-name = "openmanus"
+name = "open-manus"
 version = "0.1.0"
 source = { virtual = "." }
