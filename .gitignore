@@ -178,3 +178,6 @@ data/
 
 # Workspace
 workspace/
+
+
+compose.override.yaml
